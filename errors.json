@@ -1,0 +1,20 @@
+[
+  {
+    "id": "02",
+    "error": "Wrong type/Direction",
+    "description": "",
+    "action": ""
+  },
+  {
+    "id": "05",
+    "error": "Validator in test mode",
+    "description": "",
+    "action": ""
+  },
+  {
+    "id": "06",
+    "error": "Wrong mode or test card",
+    "description": "Not valid for travel",
+    "action": "Irregular travel"
+  }
+]
